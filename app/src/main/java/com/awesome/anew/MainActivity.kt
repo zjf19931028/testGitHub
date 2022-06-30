@@ -1,4 +1,4 @@
-package com.awesome.test
+package com.awesome.anew
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
