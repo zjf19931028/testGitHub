@@ -1,4 +1,4 @@
-package com.awesome.anew
+package com.awesome.test
 
 import org.junit.Test
 
